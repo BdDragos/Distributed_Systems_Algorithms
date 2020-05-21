@@ -1,0 +1,13 @@
+{
+  "name": "algoritmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runONAR.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {}
+}
